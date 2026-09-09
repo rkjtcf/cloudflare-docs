@@ -1,0 +1,19 @@
+src/content/docs/fundamentals/reference/report-abuse/submit-report.mdx
+  s_b61257a764f52c::t_3ab4a42062c1b8 12-21,25,29-31,33,37,39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b458f906d811dcbb016b2f5d4dec64f8d3940ec5",
+  "prompts": {},
+  "sessions": {
+    "s_b61257a764f52c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fc9a617e2ffeyWEfJQJGlVixOE",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Rachael Truong <rachaeltruong@cloudflare.com>"
+    }
+  }
+}
